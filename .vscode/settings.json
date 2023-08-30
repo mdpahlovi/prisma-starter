@@ -3,5 +3,14 @@
         "source.fixAll.eslint": true,
         "source.fixAll.tslint": true,
         "source.organizeImports": true
+    },
+    "files.exclude": {
+        "node_modules": true,
+        ".eslintignore": true,
+        ".eslintrc": true,
+        ".gitignore": true,
+        ".prettierrc": true,
+        "tsconfig.json": true,
+        "yarn.lock": true
     }
 }
